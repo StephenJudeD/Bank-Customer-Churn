@@ -3,6 +3,10 @@ Bank Customer  Churn
 
 https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers
 
+Analysis using pandas, Data Vis with Matplotlib & Seaborn, Machine learning with Decision Tree and Hyperparamter Tuning with GridsearchCV
+
+
+
 About this file
 RowNumber—corresponds to the record (row) number and has no effect on the output.
 
